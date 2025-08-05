@@ -32,7 +32,7 @@ This project is a thrilling game that simulates a high-voltage shock using an ES
 ## 🖥️ Circuit Preview
 
 ![Circuit Simulation](img/Circuit%20Simulation.png)
-![Circuit](img/myCircuit.peg)
+![Circuit](img/myCircuit.jpeg)
 
 ---
 
