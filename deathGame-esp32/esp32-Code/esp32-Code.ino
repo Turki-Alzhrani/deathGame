@@ -15,8 +15,8 @@ int myComputer = 0;
 bool ready = false;
 
 // my WiFi 
-const char* ssid = "New House";
-const char* password = "Basel2025";
+const char* ssid = "your wifi name";
+const char* password = "your wifi password";
 WebSocketsServer webSocket = WebSocketsServer(81);
 
 void webSocketEvent(uint8_t num, WStype_t type, uint8_t * payload, size_t length) {
