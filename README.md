@@ -2,8 +2,6 @@
 
 This project is a thrilling game that simulates a high-voltage shock using an ESP32 microcontroller. The game asks the player to guess a number. If the guess matches the computer’s number, the player wins. If not… ⚡ a simulated "shock" is triggered!
 
-> ⚠️ **NOTE:** In the actual hardware, an LED is used to represent the high-voltage output for safety purposes.
-
 ---
 
 ## 🧠 How It Works
